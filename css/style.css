@@ -455,7 +455,7 @@ main .main__div4 {
   }
 
   
-  @media only screen and  (min-width:576px){
+  @media only screen and  (min-width:400px){
     .header__nav {
         display: flex;
         flex-wrap: wrap;
