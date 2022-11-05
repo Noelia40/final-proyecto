@@ -1,0 +1,52 @@
+.main__div__img{
+    width: 300px;
+    height: 400px;
+}
+
+.main__nuestrosvinostiutlo{
+    height: 10vh;
+    display: flex; 
+    justify-content: center;
+    align-items: center; 
+    margin: 5px;
+    padding: 5px; 
+
+    .main__nuestrosvinos__titulo{
+        font-style: italic;
+    }
+}
+
+
+
+
+.main__nuestrosvinos{
+    height:60vh;
+    display: flex; 
+    justify-content: center;
+    align-items: center; 
+    margin: 5px;
+    padding: 5px;
+    background-color: black;
+    color: bisque;
+}
+
+.main__nuestrosvinostiutlo{
+    height:10vh;
+    display: flex; 
+    justify-content: center;
+    align-items: center; 
+    margin: 5px;
+    padding: 5px; 
+    background-color: black;
+    color: bisque;
+}
+
+
+.main__section__h2{
+    font-style: italic;
+}
+
+.main__section__h22{
+    font-style: italic;
+}
+

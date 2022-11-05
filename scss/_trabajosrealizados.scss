@@ -1,0 +1,54 @@
+.main__titulotrabajos{
+    height:10vh;
+    display: flex; 
+    justify-content: center;
+    align-items: center; 
+    margin: 5px;
+    padding: 5px;
+    background-color:black;
+
+    .main__titulotrabajos__titulo{
+        height:40px;
+    }
+}
+
+
+
+
+.main__trabajos{
+    height: 100vh;
+    display: flex; 
+    justify-content: center;
+    align-items: center; 
+    margin: 5px;
+    padding: 5px;
+    background-color:black;
+
+    .main__trabajos__img{
+        margin: 10px;
+        
+    }
+}
+
+
+
+.main__trabajos2{
+    height:300vh;
+    display:grid; 
+    justify-content: center;
+    align-items: center; 
+    margin: 5px;
+    padding: 5px;
+    background-color:black;
+
+    #uno{
+        margin: 10px;
+        padding: 10px;
+    }
+
+    .main__lineas2__imge{
+        width: 300px;
+        height: 400px;
+    }
+    
+}

@@ -1,0 +1,17 @@
+$class:(
+    main__div3: white
+    main__lineas: bisque
+    main__lineas2__sectionlineas__h2: black
+);
+
+@each $main__div3, $color in $class{
+    .#{$main__div3}{color:$color;}
+}
+
+@each $main__lineas, $color in $class{
+    .#{$main__lineas}{color:$color;}
+}
+
+@each $main__lineas2__sectionlineas__h3, $color in $class{
+    .#{$main__lineas2__sectionlineas__h3}{color:$color;}
+}

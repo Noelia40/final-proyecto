@@ -1,0 +1,227 @@
+main{
+    .main__div{
+       height: 70vh;
+       display: flex;
+       margin: 5px;
+       padding: 5px;
+       background-color: black;
+    
+       .main__div__img{
+        width: 1380px;
+        
+    }
+    }
+    
+    
+    
+    
+    .titulo{
+        height: 10vh;
+        display: flex; 
+        justify-content: center;
+        align-items: center;
+        margin: 5px;
+        padding: 5px;
+        background-color: rgb(65, 5, 5);
+    
+        .titulo__vinos{
+            text-align: center;
+            font-size: 50px;
+            color:burlywood;
+            font-family: 'Open Sans', sans-serif;
+            
+        }
+    }  
+    
+    
+    
+    .main__div2{
+       height: 70vh;
+       display: flex;
+       margin: 5px;
+       padding: 5px;
+       background-color: black;
+    
+       .main__section__h2{
+        font-size: 2rem;
+        color: bisque;
+        font-family: 'Roboto', sans-serif;
+        margin: 10px;
+    }
+    .main__section__h22{
+        font-size: 2rem;
+        color: bisque;
+        font-family: 'Roboto', sans-serif;
+        margin: 10px;
+    }
+    .main__section__p{
+        font-size: 20px;
+        margin-left: 5px;
+        color: bisque;
+        font-family: 'Roboto', sans-serif;
+    }
+    .main__section__p2{
+        font-size: 20px;
+        margin-left: 5px;
+        color: bisque;
+        font-family: 'Roboto', sans-serif;
+    }
+    
+       
+    }
+    
+    
+    .main__div3{
+       height: 15vh;
+       background-color:black;
+       display: flex;
+       margin: 5px;
+       padding: 5px;
+    
+       .main__section__p3{
+        text-align: center;
+        color: bisque;
+        font-size:25px;
+        font-family: 'Roboto', sans-serif;
+    }
+    }
+    
+    
+    
+    .main__lineas{
+        height: 10vh;
+        display: flex; 
+        justify-content: center;
+        align-items: center;  
+        margin: 5px;
+        padding: 5px;
+        background-color: rgb(65, 5, 5);
+    
+        .main__lineas__titulo{
+            text-align: center;
+            font-size: 50px;
+            color:burlywood ;
+            font-family: 'Open Sans', sans-serif;
+        }
+        
+    }
+    
+    
+    .main__lineas2{
+        height: 70vh;
+        display: flex; 
+        justify-content: center;
+        align-items: center; 
+        margin: 5px;
+        padding: 5px;
+        background-color: black;
+    
+        .main__lineas2__img{
+            width: 300px;
+            height: 400px;
+            padding: 10px 10px 10px 10px;
+            margin: 20px;
+            border: 5px solid bisque;
+        }
+        .main__lineas2__sectionlineas__h2{
+            font-size: 40px;
+            color: bisque;
+            font-family: 'Open Sans', sans-serif;
+            margin: 5px;
+            
+        }
+        .main__lineas2__sectionlineas__p{
+            color: bisque;
+            font-size: 25px;
+            font-family: 'Roboto', sans-serif;
+            margin: 5px;
+        }
+        .main__lineas2__sectionlineas__h22{
+            font-size: 40px;
+            color: bisque;
+            font-family: 'Roboto', sans-serif;
+            margin: 5px;
+            padding: 10px;
+        }
+        .main__lineas2__sectionlineas__p2{
+            color: bisque;
+            font-size: 25px;
+            font-family: 'Roboto', sans-serif;
+            margin: 5px;
+            padding: 10px;
+        }
+    
+        .main__lineas2__img{
+            width: 300px;
+            height: 400px;
+            padding: 10px 10px 10px 10px;
+            margin: 20px;
+            border: 5px solid bisque;
+        }
+        .main__lineas2__sectionlineas__h2{
+            font-size: 40px;
+            color: bisque;
+            font-family: 'Open Sans', sans-serif;
+            margin: 5px;
+            
+        }
+        .main__lineas2__sectionlineas__p{
+            color: bisque;
+            font-size: 25px;
+            font-family: 'Roboto', sans-serif;
+            margin: 5px;
+        }
+        .main__lineas2__sectionlineas__h22{
+            font-size: 40px;
+            color: bisque;
+            font-family: 'Roboto', sans-serif;
+            margin: 5px;
+            padding: 10px;
+        }
+        .main__lineas2__sectionlineas__p2{
+            color: bisque;
+            font-size: 25px;
+            font-family: 'Roboto', sans-serif;
+            margin: 5px;
+            padding: 10px;
+        }
+        
+        
+    
+    }
+    
+    
+    
+    
+    .main__div4{
+       height: 70vh;
+       display: flex;
+       justify-content: center;
+       align-items: center;
+       margin: 5px;
+       padding: 5px;
+       background-color: rgb(65, 5, 5);
+    
+       .main__div__img3{
+        width: 300px;
+        height: 400px;
+        padding: 10px 10px 10px 10px;
+        margin: 20px;
+        border: 5px double bisque;
+        
+    }
+    .main__div__img4{
+        width: 500px;
+        height: 300px;
+        
+    }
+       
+       
+       
+    }
+    
+    
+    
+    }
+    
+    

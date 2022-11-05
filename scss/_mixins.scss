@@ -1,0 +1,29 @@
+@mixin reseteo-lista {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-align: center;
+}
+
+@mixin lista-horizontal {
+    @include reseteo-lista;
+
+    li:hover{
+        background-color:rgb(65, 5, 5);
+    }
+    ul li{
+        display: inline-block;
+        
+    
+    }
+    ul li a{
+        text-decoration: none;
+        color: bisque;
+        font-size: 20px;
+        margin-right: 20px;
+        padding: 10px;
+        
+        
+    }
+    
+}
