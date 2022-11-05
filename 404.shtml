@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@1,300&family=Roboto:ital,wght@0,100;1,100&display=swap"rel="stylesheet">
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    <link rel="stylesheet" href="./css/style.css">
+    <title>404</title>
+</head>
+
+<body>
+    <header class="header" >
+        <div class="header__nav">
+            <ul>
+                <li>
+                    <a href="./index.html">INICIO</a>
+                </li>
+                <li>
+                    <a href="./page/Pedi-tu-muestra.html">PEDÍ TU MUESTRA</a>
+                </li>
+                <li>
+                    <a href="./page/Trabajos-realizados.html">TRABAJOS REALIZADOS</a>
+                </li>
+                <li>
+                    <a href="./page/Nuestros-vinos.html">NUESTROS VINOS</a>
+                </li>
+                <li>
+                    <a href="./page/Contactos.html">CONTACTOS</a>
+                </li>
+            </ul>
+            <img src="./assest/imagenes/logo.png" alt="imagen logo" class="header__nav__img" >
+        </div>
+    </header>
+
+    <main>
+        <p class="error">
+            Error 404
+        </p>
+        <br>
+        <p class="texerror">
+            Lo sentimos, no hemos podido encontrar la página que buscás.
+        </p>
+
+        <div class="main__div4">
+            <img src="./assest/imagenes/botellas_vino-min.png" class="main__div__img3" alt="imgen tres vinos">
+            <img src="./assest/imagenes/carlos_hernandez-min.png" class="main__div__img4"
+                alt="imagen persona con copa vino en la mano">
+        </div>
+        
+    </main>
+
+    
+    <footer class="footer">
+        <div class="footer__div">
+            <p class="footer__div__p">
+                Comunicate con nosotros Carlos Hernandez (02625) 15663691 ventasgasparcampos@gmail.com
+                Estancia Ovejería | Vinos Personalizados | Regalos Empresariales | by Dilook Media | Powered by DK Host
+            </p>
+            <img src="./assest/imagenes/linkedin-sign-300x300.png" class="footer__div__img" alt="imagen logo linkedin">
+            <img src="./assest/imagenes/facebook-300x300.png" class="footer__div__img2" alt="imagen logo facebook">
+        </div>
+
+    </footer>
+
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script>
+        AOS.init();
+      </script>
+</body>
+
+</html>
